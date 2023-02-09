@@ -10,12 +10,12 @@ facilitate faster, more affordable cross-border transactions around the world.
 
 ### 2.Can you prepare a basic price analysis on any coin of your choice?
 
-(Please refer assignment.ipynb file in the repository)
+please click [here](https://github.com/android16-rj/test-assignment-sypto/blob/main/assignment.ipynb) to see the Notebook file for Analysis
 
 ### 3. What is the ATR of any particular coin of your choice for the last 1 year?
 
 The ATR of HBAR for last 1 year is 0.0068.
-(Please refer assignment.ipynb file in the repository)
+(Please refer assignment.ipynb file in the repository [here](https://github.com/android16-rj/test-assignment-sypto/blob/main/assignment.ipynb))
 
 ### 4. How would you explain std-deviation to a child?
 
