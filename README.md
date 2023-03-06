@@ -33,8 +33,6 @@ mountain(mean).
 
 ### 5. Do you think std-deviation makes sense as a tool for analysis?
 
-# 2nd Assignment for Python Development
-
 Yes, standard deviation is important for analysis, it indicates the distribution is
 normal distribution or not. We have 3 sigma(68–95–99.7) for our data and if our data
 falls between this category it is eligible for forecasting, prediction, modelling and
@@ -81,3 +79,4 @@ Pivot tables in Microsoft excel
 Hbar price for 1 year data:
 https://finance.yahoo.com/quote/HBAR-USD/history/
 
+# 2nd Assignment for Python Development
