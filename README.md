@@ -1,5 +1,7 @@
 # This is the test assignment of Sypto
 
+## 1st Assignment for Data science
+
 ### 1. Are you interested to work in crypto?
 
 
@@ -30,6 +32,8 @@ other. We can say it is the spread of snowfall(data points) from the top of
 mountain(mean).
 
 ### 5. Do you think std-deviation makes sense as a tool for analysis?
+
+# 2nd Assignment for Python Development
 
 Yes, standard deviation is important for analysis, it indicates the distribution is
 normal distribution or not. We have 3 sigma(68–95–99.7) for our data and if our data
