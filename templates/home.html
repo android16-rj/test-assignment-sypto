@@ -15,12 +15,12 @@
     </style>
   </head>
 <body>
-  
+  {% include 'nav.html' %}
   <div class="container">
   <h1 class="text-center mt-2 mb-4">
-    <div class="p-3 mb-2 bg-dark text-white">Welcome To Sypto</div>
+    <div style="margin-top:70px" class="p-3 mb-2 bg-dark text-white">Welcome To Sypto</div>
   </h1>
-  <img class="img-fluid" id="banner" src="static/Sypto.gif">
+  <img style= "padding-top:0" class="img-fluid" id="banner" src="static/Sypto.gif">
   <div class="container"></div>
   <h1 class="text-center mt-2 mb-4">
     <div class="p-3 mb-2 bg-dark-subtle text-emphasis-dark"> <a href="https://www.sypto.xyz" class="link-success">About Sypto</a></div> 
@@ -37,18 +37,11 @@
       </p>
 
         </div>
-  <div class="d-grid gap-2 col-6 mx-auto">
-    <a class="btn btn-primary btn-sm" href = "https://www.sypto.xyz/contact-us">Contact us</a>
-  </div>
+  
     
-    <div>
-      <p class="text-center">
-      <style>p.ex1{
-                    padding-top: 50px;
-                    }
-      </style>
-      <samp>Copywrite 2023 Sypto | All rights reserved.</samp>
-      </p>
+    <div style= "margin-top:100px"  class="d-grid gap-2 col-6 mx-auto">
+    <a class="btn btn-primary btn-sm" href = "mailto:invest@sypto.xyz?subject= Directed from Raju's Website">Contact us</a>
+     {% include "footer.html" %}
     </div>
 </body>
 </html>
